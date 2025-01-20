@@ -1,0 +1,7 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product listing page,Open car listing page > Verify cars,Cars displayed correctly,Cars displayed correctly,Passed,Low,-,No issues found
+TC002,Test API error handling,Disconnect API > Refresh page,Show fallback UI with error message,Error message shown,Passed,Medium,-,Handled gracefully
+TC003, Check booking functionality,Add car to booking > Verify booking,Booking updates with added car,Booking updates as expected,Passed,Medium,-,Works as expected
+TC004, Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successful
+TC005,Validate payment gateway,Initiate payment > Verify transaction,Still working on it,Working on it,Failed,_,-,Still Working
+TC006,Test security on login page,Enter invalid credentials > Submit,Still working on it,Working on it,Failed,_,-,Still Working
